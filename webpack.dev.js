@@ -5,6 +5,11 @@ const path = require('path');
 module.exports = merge(common, {
   mode: 'development',
   devtool: 'inline-source-map',
+
+  output: {
+    publicPath: '/',
+  },
+
   devServer: {
     watchFiles: ['src/**/*'],
     open: 'http://localhost:3000/',
@@ -13,8 +18,8 @@ module.exports = merge(common, {
     liveReload: true,
     headers: {
       'Cache-Control': 'no-store, no-cache, must-revalidate, max-age=0',
-      'Pragma': 'no-cache',
-      'Expires': '0',
+      Pragma: 'no-cache',
+      Expires: '0',
     },
     client: {
       overlay: {

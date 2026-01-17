@@ -5,13 +5,13 @@ let portfolioData = null;
 export async function loadPortfolioData() {
   if (!portfolioData) {
     try {
-      const response = await fetch('/data/portfolio.json');
+      const response = await fetch('./data/portfolio.json');
       if (!response.ok) throw new Error(`Failed to load: ${response.status}`);
       portfolioData = await response.json();
       console.log(
         '✅ Portfolio data loaded:',
         portfolioData.properties?.length,
-        'properties'
+        'properties',
       );
     } catch (error) {
       console.error('❌ Error loading portfolio data:', error);
