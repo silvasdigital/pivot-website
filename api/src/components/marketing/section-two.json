@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_marketing_section_twos",
+  "info": {
+    "displayName": "section_two"
+  },
+  "options": {},
+  "attributes": {
+    "section_two_title": {
+      "type": "text"
+    },
+    "section_two_description": {
+      "type": "text"
+    },
+    "section_two_photo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_home_mains",
+  "info": {
+    "displayName": "main"
+  },
+  "options": {},
+  "attributes": {
+    "main_title": {
+      "type": "text"
+    },
+    "main_small_description": {
+      "type": "text"
+    },
+    "main_big_description": {
+      "type": "text"
+    }
+  }
+}

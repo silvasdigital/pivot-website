@@ -1,0 +1,316 @@
+{
+  "data": [
+    {
+      "id": 39,
+      "documentId": "wpzh0bbrilf7ll1dm1su3ms9",
+      "name": "أراضي",
+      "slug": "arady-1",
+      "createdAt": "2024-10-21T09:30:24.842Z",
+      "updatedAt": "2024-12-19T14:11:44.536Z",
+      "publishedAt": "2024-12-19T14:11:44.587Z",
+      "locale": "ar",
+      "products": [
+        {
+          "id": 138,
+          "documentId": "yfofsxjzu20a3e1nq6e1cdqv",
+          "title": "للإيجار أرض صناعيه بأبوظبي\n",
+          "description": "للإيجار أرض صناعيه بأبوظبي ( المفرق الصناعيه )\n\n\n\nتمتاز بموقع رائع جدا ، على دوار وثلاثة شوارع ،\n\n\n\nمساحتها ( ١٥٢.٤ متر * ١٥٢.٤ قدم ) ، والمساحه الإجماليه بالمتر المربع ( ٢٣،٢٢٥.٧٦ متر مربع ) ،\n\n\n\nعبر المالك مباشره",
+          "small_description": " ( المفرق الصناعيه )",
+          "option": "للايجار",
+          "city": "المفرق ",
+          "price": 2555000,
+          "deposit": 50000,
+          "slug": "lliyjar-ard-snaeyh-babwzby",
+          "Featured": true,
+          "option_payment": "yearly",
+          "num_phone": "026313114",
+          "num_whatsapp": "502413030",
+          "createdAt": "2024-12-16T05:43:14.639Z",
+          "updatedAt": "2024-12-19T14:02:29.866Z",
+          "publishedAt": "2024-12-19T14:02:29.934Z",
+          "locale": "ar"
+        },
+        {
+          "id": 139,
+          "documentId": "fogg6kip6b6p5nwk075zv8q0",
+          "title": "للإستثمار أرض صناعيه بأبوظبي  \n",
+          "description": "للإستثمار أرض صناعيه بأبوظبي ( المفرق الصناعيه ) ،\n\n تمتاز بموقع رائع جدا ، على دوار وثلاثة شوارع ، \n\n\n\nمساحتها ( ١٥٢.٤ م * ١٥٢.٤ م ) ، والمساحه الإجماليه بالمتر المربع ( ٢٣،٢٢٥.٧٦ متر مربع ) ،\n\n\n\nعبر المالك مباشره",
+          "small_description": "( المفرق الصناعيه )",
+          "option": "للاستثمار",
+          "city": "المفرق ",
+          "price": 2090000,
+          "deposit": 50000,
+          "slug": "llistthmar-ard-snaeyh-babwzby",
+          "Featured": true,
+          "option_payment": "yearly",
+          "num_phone": "026313114",
+          "num_whatsapp": "+971502413030",
+          "createdAt": "2024-12-16T05:55:39.349Z",
+          "updatedAt": "2024-12-19T14:02:47.801Z",
+          "publishedAt": "2024-12-19T14:02:47.891Z",
+          "locale": "ar"
+        }
+      ],
+      "localizations": [
+        {
+          "id": 40,
+          "documentId": "wpzh0bbrilf7ll1dm1su3ms9",
+          "name": "Lands",
+          "slug": "lands-1",
+          "createdAt": "2024-10-21T09:30:35.523Z",
+          "updatedAt": "2024-12-19T14:11:50.463Z",
+          "publishedAt": "2024-12-19T14:11:50.506Z",
+          "locale": "en"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "documentId": "gwwv6vp8vx9hxi82lur333dd",
+      "name": "مكاتب",
+      "slug": "mkatb-1",
+      "createdAt": "2024-12-16T06:51:56.230Z",
+      "updatedAt": "2024-12-19T14:12:06.194Z",
+      "publishedAt": "2024-12-19T14:12:06.231Z",
+      "locale": "ar",
+      "products": [
+        {
+          "id": 144,
+          "documentId": "qi2gt0qsxt6d861pqourjrzk",
+          "title": "مكــــاتـب راقـيه للإيـجــــار ",
+          "description": "مساحة المكتب 26 متر مربع\n\nالممــيــزات المتــــوفـــرة للمـــكتــب :\n- عـقـــد مـوثق من قبل البلدية. \n- مكتب مفروش(اختياري). \n- تعقيم وتنظيف المبنى كلّيّاً بشكل يومي. \n- دورات مياه خاصه بالرجال وأخرى خاصه بالنساء+مغاسل للأيـدي. \n- إنـــاره عـــالية الجوده تغطي المكتب. \n- تكـيـيف مـــركزي. \n- فريق خاص بالصيانه. \n- مـــواقـف متوفره خارج المبنى. \n\nالموقع م16 مقـــابـل الفـطـيـم للـسـيـــارات,,\nمن المــــالك مبـــاشـره..",
+          "small_description": "مطـلّه على شارع رئـيسي",
+          "option": "للايجار",
+          "city": "منطقة-المصفح-الصناعية",
+          "price": 20000,
+          "deposit": 2000,
+          "slug": "mk-at-b-raq-yh-lliy-j-ar",
+          "Featured": true,
+          "option_payment": "سنوي ",
+          "num_phone": "026313114",
+          "num_whatsapp": "+971502413030",
+          "createdAt": "2024-12-16T06:46:42.162Z",
+          "updatedAt": "2024-12-19T14:03:49.112Z",
+          "publishedAt": "2024-12-19T14:03:49.179Z",
+          "locale": "ar"
+        }
+      ],
+      "localizations": [
+        {
+          "id": 41,
+          "documentId": "gwwv6vp8vx9hxi82lur333dd",
+          "name": "Offices",
+          "slug": "offices-1",
+          "createdAt": "2024-12-16T06:52:25.088Z",
+          "updatedAt": "2024-12-19T14:12:01.221Z",
+          "publishedAt": "2024-12-19T14:12:01.267Z",
+          "locale": "en"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "documentId": "ra8ke5u113uu9hjlc3bfl11q",
+      "name": "سكن عمال",
+      "slug": "skn-emal-1",
+      "createdAt": "2024-10-21T09:31:11.277Z",
+      "updatedAt": "2024-12-19T14:12:21.319Z",
+      "publishedAt": "2024-12-19T14:12:21.359Z",
+      "locale": "ar",
+      "products": [
+        {
+          "id": 142,
+          "documentId": "cbowtoi0l7mxqaw8kwjse7x6",
+          "title": "غــرف عـمـال  للإيجـــار (عـرض محدود)",
+          "description": "غرف للايجار في في منطقة المصفح الصناعية م37\n\nيتم توفير جميع الميزات أدناه:\n- شامل الصيانه \n- غرف معقمة\n- تكييف مركزي\n- غرف وحمامات نظيفة\n- مساحات مختلفه مابين 16 متر مربع الى 25متر مربع\n- مطابخ مناسبة\n- تنظيف ٢٤/٧\n- نظام الإجراءات الوقائية والسلامة\n- استهلاك المياه والكهرباء علينا\n\nمباشرة من المالك.. بدون عمولة",
+          "small_description": "غرف للايجار في في منطقة المصفح الصناعية م37\n",
+          "option": "للايجار",
+          "city": "منطقة-المصفح-الصناعية",
+          "price": 17400,
+          "deposit": 1450,
+          "slug": "gh-rf-e-m-al-lliyj-ar-e-rd-mhdwd",
+          "Featured": true,
+          "option_payment": "سنوي ",
+          "num_phone": "026313114",
+          "num_whatsapp": "+971502413030",
+          "createdAt": "2024-12-16T06:03:23.202Z",
+          "updatedAt": "2024-12-19T14:03:20.385Z",
+          "publishedAt": "2024-12-19T14:03:20.439Z",
+          "locale": "ar"
+        },
+        {
+          "id": 135,
+          "documentId": "c1epmmmcq78lx57r09q757f5",
+          "title": "أقوى العروض  | سكن عمال",
+          "description": "المميزات:\n- كهرباء ومياه مجانية\n- خدمة مكافحة الحشرات\n-مكوى\n-طقم الحراسه\n-CTV Security\n- مكيف مركزي\n-مفروشة، مد، زود\n- التخلص من النفايات\n-صيانة مجانية\n-مواقف الحافلات\n-واي فاي\n-آلة غسيل تعمل بقطع النقود المعدنية\n-24 × 7 خدمات أمنية\n-آلة بيع الشاي والقهوة التي تعمل بقطع النقود المعدنية\n-آلة كشك لإعادة شحن الموبايل\n- الحريق والسلامة\n- الوصول إلى محلات السوبر ماركت والمطاعم",
+          "small_description": "اسعار قابله للتفاوض",
+          "option": "للايجار",
+          "city": "منطقة-المصفح-الصناعية",
+          "price": 1500,
+          "deposit": 1500,
+          "slug": "aqwa-alerwd-skn-emal",
+          "Featured": true,
+          "option_payment": "monthly",
+          "num_phone": "026313114",
+          "num_whatsapp": "+971502413030",
+          "createdAt": "2024-12-16T06:17:17.729Z",
+          "updatedAt": "2024-12-19T13:59:45.215Z",
+          "publishedAt": "2024-12-19T13:59:45.301Z",
+          "locale": "ar"
+        }
+      ],
+      "localizations": [
+        {
+          "id": 51,
+          "documentId": "ra8ke5u113uu9hjlc3bfl11q",
+          "name": "Labour accommodation",
+          "slug": "Labour-accommodation",
+          "createdAt": "2024-10-21T09:31:26.860Z",
+          "updatedAt": "2025-06-25T06:52:06.020Z",
+          "publishedAt": "2025-06-25T06:52:06.067Z",
+          "locale": "en"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "documentId": "n118262fb5s0btojhqswy6ht",
+      "name": "محلات",
+      "slug": "mhlat-1",
+      "createdAt": "2024-10-21T09:30:47.073Z",
+      "updatedAt": "2024-12-19T14:12:41.008Z",
+      "publishedAt": "2024-12-19T14:12:41.093Z",
+      "locale": "ar",
+      "products": [
+        {
+          "id": 145,
+          "documentId": "jpw8azsvnnp1zpxtrsxyga7d",
+          "title": "مـحـل للإيـجـــار مصفح الصناعية ",
+          "description": "مساحة المـحـــل 80 متر مربع\nمناسب لأي نشاط\nمساحة كبيرة امام المحل \n\nشــامل جميع الممـــــيزات أدنــاه :\n- تكييف مركزي. \n- عقد إيجار مـوثـق من بلدية أبوظبي. \n- دورات مياه (رجال ونساء) في المبنى. \n- حارس أمن 24 ساعة. \n- مــواقـف سيارات. \n- نظام السلامة من الحريق. \n\nالمــوقع م16 مقـــابـل الفـطــيـم للسـيــــارات\n من المـــــالـك مبــــاشره",
+          "small_description": " على شارع رئيسي في م١٦",
+          "option": "للايجار",
+          "city": "منطقة-المصفح-الصناعية",
+          "price": 60000,
+          "deposit": 5000,
+          "slug": "m-h-l-lliy-j-ar-msfh-alsnaeyt",
+          "Featured": true,
+          "option_payment": "سنوي ",
+          "num_phone": "026313114",
+          "num_whatsapp": "+971502413030",
+          "createdAt": "2024-12-16T07:10:59.141Z",
+          "updatedAt": "2024-12-19T14:03:57.723Z",
+          "publishedAt": "2024-12-19T14:03:57.808Z",
+          "locale": "ar"
+        }
+      ],
+      "localizations": [
+        {
+          "id": 45,
+          "documentId": "n118262fb5s0btojhqswy6ht",
+          "name": "Shops",
+          "slug": "shops-1",
+          "createdAt": "2024-10-21T09:30:58.443Z",
+          "updatedAt": "2024-12-19T14:12:36.826Z",
+          "publishedAt": "2024-12-19T14:12:36.870Z",
+          "locale": "en"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "documentId": "xg83z00xa7rs1f497rqg7fjw",
+      "name": "فلل",
+      "slug": "fll-1",
+      "createdAt": "2024-10-21T09:29:25.120Z",
+      "updatedAt": "2024-12-19T14:12:47.645Z",
+      "publishedAt": "2024-12-19T14:12:47.710Z",
+      "locale": "ar",
+      "products": [
+        {
+          "id": 148,
+          "documentId": "niaf10q56nchc0h1lqgmhpdc",
+          "title": "فـيــــلا راقــــيه لـلإيجــــــــار",
+          "description": "فيلا مستقله في الشهامه الجديده \n\nمدخل مستقل\n عدد 5 غرف ماستر + مجلس + صاله + حوش\nعقد توثيق \n\nمن المالك مباشره\n\nمميزات العقار:\n-شرفة\n-تكييف مركزي\n-إطلالة على المجتمع\n-موقف سيارات\n-مطبخ مجهز\n-بالقرب من مرفق الصراف الآلي\n-حضانة أطفال\n-منطقة لعب للأطفال\n-حدائق عامة\n-خدمة الكونسيرج\n-خدمة غسيل الملابس\n-مسجد\n-حديقة عامة\n-مطاعم\n-مدرسة\n-متاجر\n-مسارات للمشي",
+          "small_description": "فيلا في الشهامه الجديدة - ابوظبي ",
+          "option": "للايجار",
+          "city": "الشهامة-الجديدة",
+          "price": 120000,
+          "deposit": 8000,
+          "slug": "f-y-la-raq-yh-l-liyj-ar-1",
+          "Featured": true,
+          "option_payment": "سنوي ",
+          "num_phone": "026313114",
+          "num_whatsapp": "+971502413030",
+          "createdAt": "2024-12-16T07:28:38.319Z",
+          "updatedAt": "2024-12-19T14:04:41.503Z",
+          "publishedAt": "2024-12-19T14:04:41.589Z",
+          "locale": "ar"
+        }
+      ],
+      "localizations": [
+        {
+          "id": 48,
+          "documentId": "xg83z00xa7rs1f497rqg7fjw",
+          "name": "Villas",
+          "slug": "villas-1",
+          "createdAt": "2024-10-21T09:29:36.634Z",
+          "updatedAt": "2024-12-19T14:12:52.250Z",
+          "publishedAt": "2024-12-19T14:12:52.287Z",
+          "locale": "en"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "documentId": "qvmr4cso3wcf8fumc7ac0l1r",
+      "name": "مستودعات",
+      "slug": "mstwdeat-1",
+      "createdAt": "2024-10-21T09:31:36.165Z",
+      "updatedAt": "2024-12-19T14:13:10.577Z",
+      "publishedAt": "2024-12-19T14:13:10.636Z",
+      "locale": "ar",
+      "products": [
+        {
+          "id": 149,
+          "documentId": "j4y6v7qi1m39gqcxgvk4429m",
+          "title": "مستودع للإيجـــــار (عـرض محدود)",
+          "description": "\nمساحة المستودع 88 متر مربع\nعقد الايجار موثق\nالتنظيف والتعقيم اليومي للمبني\nدورات مياه خاصة للرجال +دورات خاصة للنساء بالمبنى\nمواقف سيارات\n\nالموقع بمصفح الصناعية M16 مقابل الفطيم موتر على الشارع الرئيسي\n\nمن المالك مباشرة",
+          "small_description": "مستودع للإيجار في م١٦ - مصفح الصناعيه ",
+          "option": "للايجار",
+          "city": "منطقة-المصفح-الصناعية",
+          "price": 55000,
+          "deposit": 3000,
+          "slug": "mstwde-lliyj-ar-e-rd-mhdwd-1",
+          "Featured": true,
+          "option_payment": "سنوي ",
+          "num_phone": "026313114",
+          "num_whatsapp": "+971502413030",
+          "createdAt": "2024-12-16T07:31:59.928Z",
+          "updatedAt": "2024-12-19T14:05:02.003Z",
+          "publishedAt": "2024-12-19T14:05:02.181Z",
+          "locale": "ar"
+        }
+      ],
+      "localizations": [
+        {
+          "id": 49,
+          "documentId": "qvmr4cso3wcf8fumc7ac0l1r",
+          "name": "Warehouses",
+          "slug": "warehouses-1",
+          "createdAt": "2024-10-21T09:32:02.515Z",
+          "updatedAt": "2024-12-19T14:13:05.245Z",
+          "publishedAt": "2024-12-19T14:13:05.298Z",
+          "locale": "en"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 6
+    }
+  }
+}

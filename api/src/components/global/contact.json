@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_global_contacts",
+  "info": {
+    "displayName": "Contact"
+  },
+  "options": {},
+  "attributes": {
+    "address": {
+      "type": "text"
+    },
+    "mailBox": {
+      "type": "string"
+    },
+    "mobile": {
+      "type": "string"
+    },
+    "landline": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_marketing_card_twos",
+  "info": {
+    "displayName": "card_two"
+  },
+  "options": {},
+  "attributes": {
+    "card_two_description": {
+      "type": "text"
+    },
+    "card_two_two_description": {
+      "type": "text"
+    },
+    "card_two_photo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

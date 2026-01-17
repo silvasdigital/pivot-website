@@ -1,0 +1,35 @@
+{
+  "collectionName": "components_management_section_threes",
+  "info": {
+    "displayName": "section_three"
+  },
+  "options": {},
+  "attributes": {
+    "section_three_title": {
+      "type": "text"
+    },
+    "section_three_description": {
+      "type": "text"
+    },
+    "section_three_photo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "section_three_bg": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

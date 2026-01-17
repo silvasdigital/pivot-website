@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_about_why_uses",
+  "info": {
+    "displayName": "why_us"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

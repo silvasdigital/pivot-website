@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_about_mains",
+  "info": {
+    "displayName": "main"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_investment_card_fours",
+  "info": {
+    "displayName": "card_four"
+  },
+  "options": {},
+  "attributes": {
+    "card_four_title": {
+      "type": "text"
+    },
+    "card_four_description": {
+      "type": "text"
+    },
+    "card_four_photo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

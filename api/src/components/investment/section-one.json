@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_investment_section_ones",
+  "info": {
+    "displayName": "section_one"
+  },
+  "options": {},
+  "attributes": {
+    "section_one_title": {
+      "type": "text"
+    },
+    "section_one_description": {
+      "type": "text"
+    },
+    "section_one_photo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

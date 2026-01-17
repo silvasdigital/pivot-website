@@ -1,0 +1,612 @@
+{
+  "company": {
+    "ar": {
+      "name": "PIVOT",
+      "fullName": "PIVOT International Real Estate",
+      "tagline": "حلول عقارات وأعمال متكاملة موثوقة",
+      "description": "شركة رائدة في تقديم حلول عقارات متطورة وإدارة مشاريع عقارية شاملة",
+      "established": "1996",
+      "aboutTitle": "من نحن",
+      "aboutContent": "منذ تأسيس شركة PIVOT عام 1996، تتمتع بخبرة عملاقة في مجال العقارات والاستثمار في الإمارات العربية المتحدة. نحن متخصصون في تقديم حلول عقارية شاملة ومتطورة، مع التركيز على الجودة والابتكار والرضا العميل. فريقنا من الخبراء المحترفين يعمل بجدية واحترافية لتحقيق أهداف عملائنا وتجاوز توقعاتهم.",
+      "vision": "أن نكون الشركة الرائدة والمتميزة في مجال إدارة العقارات والاستثمار العقاري في منطقة الخليج",
+      "mission": "تقديم حلول عقارية مبتكرة وموثوقة تتجاوز توقعات عملائنا مع الالتزام بأعلى معايير الجودة والمهنية",
+      "values": [
+        {
+          "title": "الأمانة",
+          "description": "نعتمد على الأمانة والشفافية في كل تعاملاتنا"
+        },
+        {
+          "title": "الابتكار",
+          "description": "نسعى دائماً للتطور والابتكار في خدماتنا"
+        },
+        {
+          "title": "الجودة",
+          "description": "نقدم أعلى مستويات الجودة في كل ما نقدمه"
+        },
+        {
+          "title": "العميل أولاً",
+          "description": "رضا العميل هو أولويتنا الأساسية"
+        }
+      ],
+      "team": [
+        {
+          "id": 1,
+          "name": "محمد أحمد",
+          "role": "الرئيس التنفيذي",
+          "title": "CEO",
+          "description": "خبرة 30 سنة في مجال العقارات والاستثمار",
+          "icon": "fas fa-user-tie",
+          "email": "محمد@pivot.ae"
+        },
+        {
+          "id": 2,
+          "name": "فاطمة علي",
+          "role": "مدير المشاريع",
+          "title": "Projects Manager",
+          "description": "متخصصة في إدارة المشاريع الكبرى والمشاريع الاستثمارية",
+          "icon": "fas fa-project-diagram",
+          "email": "فاطمة@pivot.ae"
+        },
+        {
+          "id": 3,
+          "name": "سارة محمود",
+          "role": "مدير المبيعات",
+          "title": "Sales Director",
+          "description": "قيادة فريق المبيعات وتطوير استراتيجيات التسويق",
+          "icon": "fas fa-chart-line",
+          "email": "سارة@pivot.ae"
+        },
+        {
+          "id": 4,
+          "name": "علي ديب",
+          "role": "مستشار استثماري",
+          "title": "Investment Advisor",
+          "description": "تقديم الاستشارات المتخصصة للمستثمرين",
+          "icon": "fas fa-comments-dollar",
+          "email": "علي@pivot.ae"
+        },
+        {
+          "id": 5,
+          "name": "ليلى عمر",
+          "role": "مدير العملاء",
+          "title": "Customer Manager",
+          "description": "ضمان جودة الخدمة والدعم المستمر للعملاء",
+          "icon": "fas fa-headset",
+          "email": "ليلى@pivot.ae"
+        },
+        {
+          "id": 6,
+          "name": "أحمد يوسف",
+          "role": "مهندس تقني",
+          "title": "Technical Manager",
+          "description": "إدارة البنية التحتية والأنظمة التقنية",
+          "icon": "fas fa-cogs",
+          "email": "أحمد@pivot.ae"
+        }
+      ],
+      "contact": {
+        "phone": "026313114",
+        "whatsapp": "+971502413030",
+        "email": "info@pivot.ae",
+        "address": "أبوظبي، الإمارات العربية المتحدة",
+        "workingHours": "السبت - الأربعاء: 9:00 - 18:00",
+        "languages": [
+          "العربية",
+          "English",
+          "Français"
+        ]
+      }
+    },
+    "en": {
+      "name": "PIVOT",
+      "fullName": "PIVOT International Real Estate",
+      "tagline": "Integrated and Reliable Real Estate Solutions",
+      "description": "A leading company providing advanced real estate solutions and comprehensive real estate project management",
+      "established": "1996",
+      "aboutTitle": "About Us",
+      "aboutContent": "Since PIVOT was established in 1996, it has enjoyed extensive experience in the field of real estate and investment in the United Arab Emirates. We specialize in providing comprehensive and advanced real estate solutions, with a focus on quality, innovation, and customer satisfaction. Our team of professional experts works diligently to achieve and exceed our clients' objectives.",
+      "vision": "To be the leading and distinguished company in the field of real estate management and real estate investment in the Gulf region",
+      "mission": "Providing innovative and reliable real estate solutions that exceed our clients' expectations with commitment to the highest standards of quality and professionalism",
+      "values": [
+        {
+          "title": "Integrity",
+          "description": "We rely on integrity and transparency in all our dealings"
+        },
+        {
+          "title": "Innovation",
+          "description": "We constantly strive for development and innovation in our services"
+        },
+        {
+          "title": "Quality",
+          "description": "We provide the highest quality standards in everything we offer"
+        },
+        {
+          "title": "Customer First",
+          "description": "Customer satisfaction is our top priority"
+        }
+      ],
+      "team": [
+        {
+          "id": 1,
+          "name": "Mohammed Ahmed",
+          "role": "Chief Executive Officer",
+          "title": "CEO",
+          "description": "30 years of experience in real estate and investment",
+          "icon": "fas fa-user-tie",
+          "email": "mohammed@pivot.ae"
+        },
+        {
+          "id": 2,
+          "name": "Fatima Ali",
+          "role": "Projects Manager",
+          "title": "Projects Manager",
+          "description": "Specialized in managing large and investment projects",
+          "icon": "fas fa-project-diagram",
+          "email": "fatima@pivot.ae"
+        },
+        {
+          "id": 3,
+          "name": "Sarah Mahmoud",
+          "role": "Sales Director",
+          "title": "Sales Director",
+          "description": "Leading the sales team and developing marketing strategies",
+          "icon": "fas fa-chart-line",
+          "email": "sarah@pivot.ae"
+        },
+        {
+          "id": 4,
+          "name": "Ali Deeb",
+          "role": "Investment Advisor",
+          "title": "Investment Advisor",
+          "description": "Providing specialized consultations to investors",
+          "icon": "fas fa-comments-dollar",
+          "email": "ali@pivot.ae"
+        },
+        {
+          "id": 5,
+          "name": "Layla Omar",
+          "role": "Customer Manager",
+          "title": "Customer Manager",
+          "description": "Ensuring service quality and continuous customer support",
+          "icon": "fas fa-headset",
+          "email": "layla@pivot.ae"
+        },
+        {
+          "id": 6,
+          "name": "Ahmed Yousif",
+          "role": "Technical Manager",
+          "title": "Technical Manager",
+          "description": "Managing infrastructure and technical systems",
+          "icon": "fas fa-cogs",
+          "email": "ahmed@pivot.ae"
+        }
+      ],
+      "contact": {
+        "phone": "026313114",
+        "whatsapp": "+971502413030",
+        "email": "info@pivot.ae",
+        "address": "Abu Dhabi, United Arab Emirates",
+        "workingHours": "Saturday - Wednesday: 9:00 AM - 6:00 PM",
+        "languages": [
+          "English",
+          "العربية",
+          "Français"
+        ]
+      }
+    }
+  },
+  "projects": [
+    {
+      "id": 135,
+      "slug": "aqwa-alerwd-skn-emal",
+      "title": {
+        "ar": "أقوى العروض  | سكن عمال",
+        "en": "Best Offers | Workers Accommodation"
+      },
+      "description": {
+        "ar": "اسعار قابله للتفاوض",
+        "en": "Negotiable prices for affordable housing"
+      },
+      "fullDescription": {
+        "ar": "المميزات:\n- كهرباء ومياه مجانية\n- خدمة مكافحة الحشرات\n-مكوى\n-طقم الحراسه\n-CTV Security\n- مكيف مركزي\n-مفروشة، مد، زود\n- التخلص من النفايات\n-صيانة مجانية\n-مواقف الحافلات\n-واي فاي\n-آلة غسيل تعمل بقطع النقود المعدنية\n-24 × 7 خدمات أمنية\n-آلة بيع الشاي والقهوة التي تعمل بقطع النقود المعدنية\n-آلة كشك لإعادة شحن الموبايل\n- الحريق والسلامة\n- الوصول إلى محلات السوبر ماركت والمطاعم",
+        "en": "المميزات:\n- كهرباء ومياه مجانية\n- خدمة مكافحة الحشرات\n-مكوى\n-طقم الحراسه\n-CTV Security\n- مكيف مركزي\n-مفروشة، مد، زود\n- التخلص من النفايات\n-صيانة مجانية\n-مواقف الحافلات\n-واي فاي\n-آلة غسيل تعمل بقطع النقود المعدنية\n-24 × 7 خدمات أمنية\n-آلة بيع الشاي والقهوة التي تعمل بقطع النقود المعدنية\n-آلة كشك لإعادة شحن الموبايل\n- الحريق والسلامة\n- الوصول إلى محلات السوبر ماركت والمطاعم"
+      },
+      "category": "سكن عمال",
+      "location": {
+        "ar": "منطقة-المصفح-الصناعية",
+        "en": "Abu Dhabi"
+      },
+      "price": "1,500",
+      "priceUnit": "monthly",
+      "image": "https://pire-space.blr1.digitaloceanspaces.com/489c3649988e371858f4c9414516afb2.jpg",
+      "status": {
+        "ar": "مكتمل",
+        "en": "Completed"
+      },
+      "features": {
+        "ar": [
+          "جودة عالية",
+          "موقع استراتيجي",
+          "سهولة الوصول"
+        ],
+        "en": [
+          "High Quality",
+          "Strategic Location",
+          "Easy Access"
+        ]
+      }
+    },
+    {
+      "id": 142,
+      "slug": "gh-rf-e-m-al-lliyj-ar-e-rd-mhdwd",
+      "title": {
+        "ar": "غــرف عـمـال  للإيجـــار (عـرض محدود)",
+        "en": "Workers Rooms for Rent (Limited Offer)"
+      },
+      "description": {
+        "ar": "غرف للايجار في في منطقة المصفح الصناعية م37",
+        "en": "Rooms for rent in Al Mussafah Industrial Area"
+      },
+      "fullDescription": {
+        "ar": "غرف للايجار في في منطقة المصفح الصناعية م37\n\nيتم توفير جميع الميزات أدناه:\n- شامل الصيانه \n- غرف معقمة\n- تكييف مركزي\n- غرف وحمامات نظيفة\n- مساحات مختلفه مابين 16 متر مربع الى 25متر مربع\n- مطابخ مناسبة\n- تنظيف ٢٤/٧\n- نظام الإجراءات الوقائية والسلامة\n- استهلاك المياه والكهرباء علينا\n\nمباشرة من المالك.. بدون عمولة",
+        "en": "غرف للايجار في في منطقة المصفح الصناعية م37\n\nيتم توفير جميع الميزات أدناه:\n- شامل الصيانه \n- غرف معقمة\n- تكييف مركزي\n- غرف وحمامات نظيفة\n- مساحات مختلفه مابين 16 متر مربع الى 25متر مربع\n- مطابخ مناسبة\n- تنظيف ٢٤/٧\n- نظام الإجراءات الوقائية والسلامة\n- استهلاك المياه والكهرباء علينا\n\nمباشرة من المالك.. بدون عمولة"
+      },
+      "category": "سكن عمال",
+      "location": {
+        "ar": "منطقة-المصفح-الصناعية",
+        "en": "Abu Dhabi"
+      },
+      "price": "17,400",
+      "priceUnit": "سنوي ",
+      "image": "https://pire-space.blr1.digitaloceanspaces.com/91ca21a6ad976318406bbd2e64be893a.jpg",
+      "status": {
+        "ar": "مكتمل",
+        "en": "Completed"
+      },
+      "features": {
+        "ar": [
+          "جودة عالية",
+          "موقع استراتيجي",
+          "سهولة الوصول"
+        ],
+        "en": [
+          "High Quality",
+          "Strategic Location",
+          "Easy Access"
+        ]
+      }
+    },
+    {
+      "id": 139,
+      "slug": "llistthmar-ard-snaeyh-babwzby",
+      "title": {
+        "ar": "للإستثمار أرض صناعيه بأبوظبي",
+        "en": "Industrial Land for Investment in Abu Dhabi"
+      },
+      "description": {
+        "ar": "( المفرق الصناعيه )",
+        "en": "(Al Mfraq Industrial Area)"
+      },
+      "fullDescription": {
+        "ar": "للإستثمار أرض صناعيه بأبوظبي ( المفرق الصناعيه ) ،\n\n تمتاز بموقع رائع جدا ، على دوار وثلاثة شوارع ، \n\n\n\nمساحتها ( ١٥٢.٤ م * ١٥٢.٤ م ) ، والمساحه الإجماليه بالمتر المربع ( ٢٣،٢٢٥.٧٦ متر مربع ) ،\n\n\n\nعبر المالك مباشره",
+        "en": "للإستثمار أرض صناعيه بأبوظبي ( المفرق الصناعيه ) ،\n\n تمتاز بموقع رائع جدا ، على دوار وثلاثة شوارع ، \n\n\n\nمساحتها ( ١٥٢.٤ م * ١٥٢.٤ م ) ، والمساحه الإجماليه بالمتر المربع ( ٢٣،٢٢٥.٧٦ متر مربع ) ،\n\n\n\nعبر المالك مباشره"
+      },
+      "category": "أراضي",
+      "location": {
+        "ar": "المفرق",
+        "en": "Abu Dhabi"
+      },
+      "price": "2,090,000",
+      "priceUnit": "yearly",
+      "image": "https://pire-space.blr1.digitaloceanspaces.com/3fb2e2280dc5dd00d8ee20da90c5ca69.jpeg",
+      "status": {
+        "ar": "مكتمل",
+        "en": "Completed"
+      },
+      "features": {
+        "ar": [
+          "جودة عالية",
+          "موقع استراتيجي",
+          "سهولة الوصول"
+        ],
+        "en": [
+          "High Quality",
+          "Strategic Location",
+          "Easy Access"
+        ]
+      }
+    },
+    {
+      "id": 149,
+      "slug": "mstwde-lliyj-ar-e-rd-mhdwd-1",
+      "title": {
+        "ar": "مستودع للإيجـــــار (عـرض محدود)",
+        "en": "Warehouse for Rent (Limited Offer)"
+      },
+      "description": {
+        "ar": "مستودع للإيجار في م١٦ - مصفح الصناعيه",
+        "en": "مستودع للإيجار في م١٦ - مصفح الصناعيه"
+      },
+      "fullDescription": {
+        "ar": "مساحة المستودع 88 متر مربع\nعقد الايجار موثق\nالتنظيف والتعقيم اليومي للمبني\nدورات مياه خاصة للرجال +دورات خاصة للنساء بالمبنى\nمواقف سيارات\n\nالموقع بمصفح الصناعية M16 مقابل الفطيم موتر على الشارع الرئيسي\n\nمن المالك مباشرة",
+        "en": "مساحة المستودع 88 متر مربع\nعقد الايجار موثق\nالتنظيف والتعقيم اليومي للمبني\nدورات مياه خاصة للرجال +دورات خاصة للنساء بالمبنى\nمواقف سيارات\n\nالموقع بمصفح الصناعية M16 مقابل الفطيم موتر على الشارع الرئيسي\n\nمن المالك مباشرة"
+      },
+      "category": "مستودعات",
+      "location": {
+        "ar": "منطقة-المصفح-الصناعية",
+        "en": "Abu Dhabi"
+      },
+      "price": "55,000",
+      "priceUnit": "سنوي ",
+      "image": "https://pire-space.blr1.digitaloceanspaces.com/6af81a488b4431d54bdf8d402eb29fca.jpeg",
+      "status": {
+        "ar": "مكتمل",
+        "en": "Completed"
+      },
+      "features": {
+        "ar": [
+          "جودة عالية",
+          "موقع استراتيجي",
+          "سهولة الوصول"
+        ],
+        "en": [
+          "High Quality",
+          "Strategic Location",
+          "Easy Access"
+        ]
+      }
+    },
+    {
+      "id": 145,
+      "slug": "m-h-l-lliy-j-ar-msfh-alsnaeyt",
+      "title": {
+        "ar": "مـحـل للإيـجـــار مصفح الصناعية",
+        "en": "Shop for Rent in Mussafah Industrial Area"
+      },
+      "description": {
+        "ar": "على شارع رئيسي في م١٦",
+        "en": "على شارع رئيسي في م١٦"
+      },
+      "fullDescription": {
+        "ar": "مساحة المـحـــل 80 متر مربع\nمناسب لأي نشاط\nمساحة كبيرة امام المحل \n\nشــامل جميع الممـــــيزات أدنــاه :\n- تكييف مركزي. \n- عقد إيجار مـوثـق من بلدية أبوظبي. \n- دورات مياه (رجال ونساء) في المبنى. \n- حارس أمن 24 ساعة. \n- مــواقـف سيارات. \n- نظام السلامة من الحريق. \n\nالمــوقع م16 مقـــابـل الفـطــيـم للسـيــــارات\n من المـــــالـك مبــــاشره",
+        "en": "مساحة المـحـــل 80 متر مربع\nمناسب لأي نشاط\nمساحة كبيرة امام المحل \n\nشــامل جميع الممـــــيزات أدنــاه :\n- تكييف مركزي. \n- عقد إيجار مـوثـق من بلدية أبوظبي. \n- دورات مياه (رجال ونساء) في المبنى. \n- حارس أمن 24 ساعة. \n- مــواقـف سيارات. \n- نظام السلامة من الحريق. \n\nالمــوقع م16 مقـــابـل الفـطــيـم للسـيــــارات\n من المـــــالـك مبــــاشره"
+      },
+      "category": "محلات",
+      "location": {
+        "ar": "منطقة-المصفح-الصناعية",
+        "en": "Abu Dhabi"
+      },
+      "price": "60,000",
+      "priceUnit": "سنوي ",
+      "image": "https://pire-space.blr1.digitaloceanspaces.com/1c7bf2e666eeb289fcea741d5431a743.jpg",
+      "status": {
+        "ar": "مكتمل",
+        "en": "Completed"
+      },
+      "features": {
+        "ar": [
+          "جودة عالية",
+          "موقع استراتيجي",
+          "سهولة الوصول"
+        ],
+        "en": [
+          "High Quality",
+          "Strategic Location",
+          "Easy Access"
+        ]
+      }
+    },
+    {
+      "id": 148,
+      "slug": "f-y-la-raq-yh-l-liyj-ar-1",
+      "title": {
+        "ar": "فـيــــلا راقــــيه لـلإيجــــــــار",
+        "en": "Luxurious Villa for Rent"
+      },
+      "description": {
+        "ar": "فيلا في الشهامه الجديدة - ابوظبي",
+        "en": "فيلا في الشهامه الجديدة - ابوظبي"
+      },
+      "fullDescription": {
+        "ar": "فيلا مستقله في الشهامه الجديده \n\nمدخل مستقل\n عدد 5 غرف ماستر + مجلس + صاله + حوش\nعقد توثيق \n\nمن المالك مباشره\n\nمميزات العقار:\n-شرفة\n-تكييف مركزي\n-إطلالة على المجتمع\n-موقف سيارات\n-مطبخ مجهز\n-بالقرب من مرفق الصراف الآلي\n-حضانة أطفال\n-منطقة لعب للأطفال\n-حدائق عامة\n-خدمة الكونسيرج\n-خدمة غسيل الملابس\n-مسجد\n-حديقة عامة\n-مطاعم\n-مدرسة\n-متاجر\n-مسارات للمشي",
+        "en": "فيلا مستقله في الشهامه الجديده \n\nمدخل مستقل\n عدد 5 غرف ماستر + مجلس + صاله + حوش\nعقد توثيق \n\nمن المالك مباشره\n\nمميزات العقار:\n-شرفة\n-تكييف مركزي\n-إطلالة على المجتمع\n-موقف سيارات\n-مطبخ مجهز\n-بالقرب من مرفق الصراف الآلي\n-حضانة أطفال\n-منطقة لعب للأطفال\n-حدائق عامة\n-خدمة الكونسيرج\n-خدمة غسيل الملابس\n-مسجد\n-حديقة عامة\n-مطاعم\n-مدرسة\n-متاجر\n-مسارات للمشي"
+      },
+      "category": "فلل",
+      "location": {
+        "ar": "الشهامة-الجديدة",
+        "en": "Abu Dhabi"
+      },
+      "price": "120,000",
+      "priceUnit": "سنوي ",
+      "image": "https://pire-space.blr1.digitaloceanspaces.com/b1a6bc11a83989cd3ba7d4b95dde9fa4.jpg",
+      "status": {
+        "ar": "مكتمل",
+        "en": "Completed"
+      },
+      "features": {
+        "ar": [
+          "جودة عالية",
+          "موقع استراتيجي",
+          "سهولة الوصول"
+        ],
+        "en": [
+          "High Quality",
+          "Strategic Location",
+          "Easy Access"
+        ]
+      }
+    },
+    {
+      "id": 144,
+      "slug": "mk-at-b-raq-yh-lliy-j-ar",
+      "title": {
+        "ar": "مكــــاتـب راقـيه للإيـجــــار",
+        "en": "Luxury Offices for Rent"
+      },
+      "description": {
+        "ar": "مطـلّه على شارع رئـيسي",
+        "en": "مطـلّه على شارع رئـيسي"
+      },
+      "fullDescription": {
+        "ar": "مساحة المكتب 26 متر مربع\n\nالممــيــزات المتــــوفـــرة للمـــكتــب :\n- عـقـــد مـوثق من قبل البلدية. \n- مكتب مفروش(اختياري). \n- تعقيم وتنظيف المبنى كلّيّاً بشكل يومي. \n- دورات مياه خاصه بالرجال وأخرى خاصه بالنساء+مغاسل للأيـدي. \n- إنـــاره عـــالية الجوده تغطي المكتب. \n- تكـيـيف مـــركزي. \n- فريق خاص بالصيانه. \n- مـــواقـف متوفره خارج المبنى. \n\nالموقع م16 مقـــابـل الفـطـيـم للـسـيـــارات,,\nمن المــــالك مبـــاشـره..",
+        "en": "مساحة المكتب 26 متر مربع\n\nالممــيــزات المتــــوفـــرة للمـــكتــب :\n- عـقـــد مـوثق من قبل البلدية. \n- مكتب مفروش(اختياري). \n- تعقيم وتنظيف المبنى كلّيّاً بشكل يومي. \n- دورات مياه خاصه بالرجال وأخرى خاصه بالنساء+مغاسل للأيـدي. \n- إنـــاره عـــالية الجوده تغطي المكتب. \n- تكـيـيف مـــركزي. \n- فريق خاص بالصيانه. \n- مـــواقـف متوفره خارج المبنى. \n\nالموقع م16 مقـــابـل الفـطـيـم للـسـيـــارات,,\nمن المــــالك مبـــاشـره.."
+      },
+      "category": "مكاتب",
+      "location": {
+        "ar": "منطقة-المصفح-الصناعية",
+        "en": "Abu Dhabi"
+      },
+      "price": "20,000",
+      "priceUnit": "سنوي ",
+      "image": "https://pire-space.blr1.digitaloceanspaces.com/7821775187ead330986dc0047e9e7597.jpeg",
+      "status": {
+        "ar": "مكتمل",
+        "en": "Completed"
+      },
+      "features": {
+        "ar": [
+          "جودة عالية",
+          "موقع استراتيجي",
+          "سهولة الوصول"
+        ],
+        "en": [
+          "High Quality",
+          "Strategic Location",
+          "Easy Access"
+        ]
+      }
+    },
+    {
+      "id": 138,
+      "slug": "lliyjar-ard-snaeyh-babwzby",
+      "title": {
+        "ar": "للإيجار أرض صناعيه بأبوظبي",
+        "en": "Industrial Land for Rent in Abu Dhabi"
+      },
+      "description": {
+        "ar": "( المفرق الصناعيه )",
+        "en": "(Al Mfraq Industrial Area)"
+      },
+      "fullDescription": {
+        "ar": "للإيجار أرض صناعيه بأبوظبي ( المفرق الصناعيه )\n\n\n\nتمتاز بموقع رائع جدا ، على دوار وثلاثة شوارع ،\n\n\n\nمساحتها ( ١٥٢.٤ متر * ١٥٢.٤ قدم ) ، والمساحه الإجماليه بالمتر المربع ( ٢٣،٢٢٥.٧٦ متر مربع ) ،\n\n\n\nعبر المالك مباشره",
+        "en": "للإيجار أرض صناعيه بأبوظبي ( المفرق الصناعيه )\n\n\n\nتمتاز بموقع رائع جدا ، على دوار وثلاثة شوارع ،\n\n\n\nمساحتها ( ١٥٢.٤ متر * ١٥٢.٤ قدم ) ، والمساحه الإجماليه بالمتر المربع ( ٢٣،٢٢٥.٧٦ متر مربع ) ،\n\n\n\nعبر المالك مباشره"
+      },
+      "category": "أراضي",
+      "location": {
+        "ar": "المفرق",
+        "en": "Abu Dhabi"
+      },
+      "price": "2,555,000",
+      "priceUnit": "yearly",
+      "image": "https://pire-space.blr1.digitaloceanspaces.com/3fb2e2280dc5dd00d8ee20da90c5ca69.jpeg",
+      "status": {
+        "ar": "مكتمل",
+        "en": "Completed"
+      },
+      "features": {
+        "ar": [
+          "جودة عالية",
+          "موقع استراتيجي",
+          "سهولة الوصول"
+        ],
+        "en": [
+          "High Quality",
+          "Strategic Location",
+          "Easy Access"
+        ]
+      }
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "slug": "management",
+      "title": {
+        "ar": "إدارة العقارات",
+        "en": "Property Management"
+      },
+      "description": {
+        "ar": "خدمات إدارة عقارات متكاملة وشاملة",
+        "en": "Integrated and comprehensive property management services"
+      },
+      "fullDescription": {
+        "ar": "نقدم خدمات إدارة عقارات متطورة تشمل: الصيانة الدورية، التنظيف الاحترافي، إدارة المستأجرين، الحفاظ على قيمة العقار، التقارير المالية الشهرية، دعم 24/7",
+        "en": "We provide advanced property management services including: Routine maintenance, Professional cleaning, Tenant management, Property value preservation, Monthly financial reports, 24/7 support"
+      },
+      "icon": "fas fa-tasks",
+      "color": "#4A90E2"
+    },
+    {
+      "id": 2,
+      "slug": "investment",
+      "title": {
+        "ar": "الاستثمار العقاري",
+        "en": "Real Estate Investment"
+      },
+      "description": {
+        "ar": "فرص استثمارية موثوقة بعوائد عالية",
+        "en": "Reliable investment opportunities with high returns"
+      },
+      "fullDescription": {
+        "ar": "نساعد المستثمرين على تحقيق أرباح عالية من خلال: دراسة جدوى شاملة، مشاريع موثوقة ومدروسة، محفظة متنوعة، إدارة احترافية، عوائد مضمونة",
+        "en": "We help investors achieve high returns through: Comprehensive feasibility studies, Reliable and well-studied projects, Diverse portfolio, Professional management, Guaranteed returns"
+      },
+      "icon": "fas fa-chart-line",
+      "color": "#F5A623"
+    },
+    {
+      "id": 3,
+      "slug": "marketing",
+      "title": {
+        "ar": "التسويق العقاري",
+        "en": "Real Estate Marketing"
+      },
+      "description": {
+        "ar": "تسويق احترافي للوصول لأفضل المشترين",
+        "en": "Professional marketing to reach the best buyers"
+      },
+      "fullDescription": {
+        "ar": "خدمات تسويق عقاري متقدمة تشمل: إعلانات رقمية، عروض افتراضية احترافية، وسائط متعددة، استهداف العملاء المناسبين، إحصائيات مفصلة",
+        "en": "Advanced real estate marketing services including: Digital advertising, Professional virtual tours, High-quality multimedia, Targeting appropriate customers, Detailed analytics"
+      },
+      "icon": "fas fa-megaphone",
+      "color": "#7ED321"
+    },
+    {
+      "id": 4,
+      "slug": "consultation",
+      "title": {
+        "ar": "الاستشارات العقارية",
+        "en": "Real Estate Consultation"
+      },
+      "description": {
+        "ar": "استشارات متخصصة من خبرائنا",
+        "en": "Specialized consultations from our experts"
+      },
+      "fullDescription": {
+        "ar": "نقدم استشارات عقارية شاملة تشمل: تحليل السوق العقاري، دراسات تفصيلية للمشاريع، نصائح استثمارية متخصصة، خطط استثمارية مخصصة",
+        "en": "We provide comprehensive real estate consultations including: Real estate market analysis, Detailed project studies, Specialized investment advice, Customized investment plans"
+      },
+      "icon": "fas fa-lightbulb",
+      "color": "#B8E986"
+    }
+  ],
+  "translations": {
+    "ar": {
+      "home": "الرئيسية",
+      "about": "من نحن",
+      "portfolio": "أعمالنا",
+      "services": "الخدمات",
+      "contact": "التواصل",
+      "projects": "المشاريع"
+    },
+    "en": {
+      "home": "Home",
+      "about": "About",
+      "portfolio": "Our Work",
+      "services": "Services",
+      "contact": "Contact",
+      "projects": "Projects"
+    }
+  }
+}

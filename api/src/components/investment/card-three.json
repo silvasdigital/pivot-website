@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_investment_card_threes",
+  "info": {
+    "displayName": "card_three"
+  },
+  "options": {},
+  "attributes": {
+    "card_three_title": {
+      "type": "text"
+    },
+    "card_three_description": {
+      "type": "text"
+    },
+    "card_three_photo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "kind": "collectionType",
+  "collectionName": "products",
+  "info": {
+    "singularName": "product",
+    "pluralName": "products",
+    "displayName": "product",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "title": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "text",
+      "required": true
+    },
+    "description": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "text",
+      "required": true
+    },
+    "small_description": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "text"
+    },
+    "option": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "enumeration",
+      "enum": [
+        "للايجار",
+        "للبيع",
+        "للشراء",
+        "للاستثمار",
+        "For Rent",
+        "For Sale",
+        "To Purchase",
+        "For Investment"
+      ],
+      "default": "للايجار",
+      "required": true
+    },
+    "city": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "enumeration",
+      "enum": [
+        "المصفح ",
+        "منطقة-المصفح-الصناعية",
+        "المصفح-الشعبية-٩",
+        "المصفح-الشعبية-١٠",
+        "المصفح-الشعبية-١١",
+        "المصفح-الشعبية-١٢",
+        "المفرق ",
+        "الشهامة",
+        "الشهامة-الجديدة",
+        "الشهامة-القديمة",
+        "Musaffah ",
+        "Musaffah-Industrial-Area",
+        "Mafraq",
+        "Mafraq-Industrial-Area",
+        "Shabiya-Musaffah-9",
+        "Shabiya-Musaffah-10",
+        "Shabiya-Musaffah-11",
+        "Shabiya-Musaffah-12",
+        "Shahama",
+        "New-Shahama ",
+        "Old-Shahama"
+      ],
+      "required": true
+    },
+    "price": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "decimal",
+      "required": true
+    },
+    "deposit": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "decimal",
+      "required": true
+    },
+    "cover": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "slug": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "uid",
+      "targetField": "title",
+      "required": true
+    },
+    "Featured": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "boolean"
+    },
+    "category": {
+      "type": "relation",
+      "relation": "manyToOne",
+      "target": "api::category.category",
+      "inversedBy": "products"
+    },
+    "images": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    },
+    "option_payment": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "enumeration",
+      "enum": [
+        "monthly",
+        "yearly",
+        "سنوي ",
+        "شهري"
+      ],
+      "required": true
+    },
+    "num_phone": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "string",
+      "required": true
+    },
+    "num_whatsapp": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "string",
+      "required": true
+    }
+  }
+}

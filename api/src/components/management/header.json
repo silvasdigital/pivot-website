@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_management_headers",
+  "info": {
+    "displayName": "header"
+  },
+  "options": {},
+  "attributes": {
+    "header_description": {
+      "type": "text"
+    },
+    "header_title": {
+      "type": "text"
+    },
+    "header_bg": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+	"name": "api",
+	"version": "0.1.0",
+	"private": true,
+	"description": "A Strapi application",
+	"scripts": {
+		"build": "strapi build",
+		"deploy": "strapi deploy",
+		"develop": "strapi develop",
+		"start": "strapi start",
+		"strapi": "strapi",
+		"sync": "node scripts/fetch-data.js",
+		"import": "node scripts/import-data.js"
+	},
+	"dependencies": {
+		"@strapi/plugin-users-permissions": "^5.29.0",
+		"@strapi/provider-email-mailgun": "^5.1.0",
+		"@strapi/strapi": "^5.29.0",
+		"better-sqlite3": "^11.4.0",
+		"pg": "^8.13.0",
+		"pg-connection-string": "^2.7.0",
+		"react": "^18.0.0",
+		"react-dom": "^18.0.0",
+		"react-router-dom": "^6.0.0",
+		"strapi-plugin-import-export-entries": "^1.23.1",
+		"strapi-provider-upload-do": "^3.6.8",
+		"stripe": "^17.2.1",
+		"styled-components": "^6.0.0"
+	},
+	"devDependencies": {
+		"@types/node": "^20.16.13",
+		"@types/react": "^18",
+		"@types/react-dom": "^18",
+		"typescript": "^5"
+	},
+	"engines": {
+		"node": "20.x",
+		"npm": ">=10.0.0"
+	},
+	"strapi": {
+		"uuid": "4b099ac6-6d68-487a-8756-52a9f2a48590"
+	}
+}

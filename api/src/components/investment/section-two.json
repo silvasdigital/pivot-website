@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_investment_section_twos",
+  "info": {
+    "displayName": "section_two"
+  },
+  "options": {},
+  "attributes": {
+    "section_two_title": {
+      "type": "text"
+    },
+    "section_two_description": {
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "collectionName": "components_about_headers",
+  "info": {
+    "displayName": "header"
+  },
+  "options": {},
+  "attributes": {
+    "header_title": {
+      "type": "text"
+    },
+    "header_description": {
+      "type": "text"
+    },
+    "header_section_title": {
+      "type": "text"
+    },
+    "header_section_description": {
+      "type": "text"
+    },
+    "header_bg": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "header_photo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

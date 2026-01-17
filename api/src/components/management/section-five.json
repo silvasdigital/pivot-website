@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_management_section_fives",
+  "info": {
+    "displayName": "section_five"
+  },
+  "options": {},
+  "attributes": {
+    "section_five_title": {
+      "type": "text"
+    },
+    "section_five_description": {
+      "type": "text"
+    },
+    "section_five_photo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

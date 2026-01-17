@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_marketing_section_centers",
+  "info": {
+    "displayName": "section_center"
+  },
+  "options": {},
+  "attributes": {
+    "section_center_title": {
+      "type": "text"
+    },
+    "section_center_description": {
+      "type": "text"
+    }
+  }
+}

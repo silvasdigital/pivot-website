@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_home_experiences",
+  "info": {
+    "displayName": "experiences"
+  },
+  "options": {},
+  "attributes": {
+    "option": {
+      "type": "string"
+    },
+    "number": {
+      "type": "integer"
+    }
+  }
+}

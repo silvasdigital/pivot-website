@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_marketing_section_ones",
+  "info": {
+    "displayName": "section_one",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "section_one_title": {
+      "type": "text"
+    },
+    "section_one_description_one": {
+      "type": "text"
+    },
+    "section_one_description_two": {
+      "type": "text"
+    },
+    "section_one_photo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

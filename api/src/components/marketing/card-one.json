@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_marketing_card_ones",
+  "info": {
+    "displayName": "card_one"
+  },
+  "options": {},
+  "attributes": {
+    "card_one_title": {
+      "type": "text"
+    },
+    "card_one_description": {
+      "type": "text"
+    },
+    "card_one_photo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

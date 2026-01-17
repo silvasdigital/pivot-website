@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_marketing_headers",
+  "info": {
+    "displayName": "header"
+  },
+  "options": {},
+  "attributes": {
+    "header_title": {
+      "type": "text"
+    },
+    "header_description_one": {
+      "type": "text"
+    },
+    "header_description_two": {
+      "type": "text"
+    },
+    "header_photo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

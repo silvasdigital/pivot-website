@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_management_section_fours",
+  "info": {
+    "displayName": "section_four"
+  },
+  "options": {},
+  "attributes": {
+    "section_four_title": {
+      "type": "text"
+    },
+    "section_four_description": {
+      "type": "text"
+    },
+    "section_four_photo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

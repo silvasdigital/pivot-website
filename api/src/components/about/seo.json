@@ -1,0 +1,54 @@
+{
+  "collectionName": "components_about_seos",
+  "info": {
+    "displayName": "seo"
+  },
+  "options": {},
+  "attributes": {
+    "meta_title": {
+      "type": "text"
+    },
+    "meta_description": {
+      "type": "text"
+    },
+    "keyword": {
+      "type": "text"
+    },
+    "icon": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "photo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "structuredData": {
+      "type": "json"
+    },
+    "url_canonical": {
+      "type": "text"
+    },
+    "src_img": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
